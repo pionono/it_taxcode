@@ -1,0 +1,7 @@
+; $Id$
+name = Italian Tax Code
+description = Adds a CCK field to insert and validate italian tax code (codice fiscale).
+dependencies[] = content
+package = CCK
+core = 6.x
+
